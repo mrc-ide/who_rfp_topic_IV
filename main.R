@@ -16,7 +16,7 @@ col5 <- "#2a73bb" # Reff color
 source("set_parameters_countries.R")
 source("functions.R")
 
-country_example <- "Thailand"
+country_example <- "Singapore"
 continue_rt <- TRUE
 increase_rt <- TRUE
 
